@@ -1,1 +1,3 @@
-import vue from 'Vue'
+import Vue from 'Vue'
+
+new Vue({})
